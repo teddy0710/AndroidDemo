@@ -1,1 +1,1 @@
-include ':app', ':broadcastsend', ':broadcreceiver'
+include ':app', ':broadcastsend', ':broadcreceiver', ':application'

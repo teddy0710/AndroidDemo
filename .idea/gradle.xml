@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/application" />
             <option value="$PROJECT_DIR$/broadcastsend" />
             <option value="$PROJECT_DIR$/broadcreceiver" />
+            <option value="$PROJECT_DIR$/gradledemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

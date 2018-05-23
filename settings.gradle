@@ -1,1 +1,1 @@
-include ':app', ':broadcastsend', ':broadcreceiver', ':application'
+include ':app', ':broadcastsend', ':broadcreceiver', ':application', ':gradledemo'

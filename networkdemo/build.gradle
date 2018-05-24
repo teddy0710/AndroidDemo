@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.arms.zfl.gradledemo"
+        applicationId "com.arms.zfl.networkdemo"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
@@ -37,12 +37,13 @@ dependencies {
     /**
      * network
      */
+//    compile('com.squareup.retrofit2:converter-simplexml:2.0.2') {
+//        exclude group: 'stax', module: 'stax-api'
+//        exclude group: 'stax', module: 'stax'
+//        exclude group: 'xpp3', module: 'xpp3'
+//    }
     compile 'com.squareup.retrofit2:retrofit:2.3.0'
-    compile('com.squareup.retrofit2:converter-simplexml:2.0.2') {
-        exclude group: 'stax', module: 'stax-api'
-        exclude group: 'stax', module: 'stax'
-        exclude group: 'xpp3', module: 'xpp3'
-    }
+    compile 'com.squareup.retrofit2:converter-simplexml:2.1.0'
     compile 'com.squareup.retrofit2:converter-gson:2.3.0'
     compile 'com.squareup.okhttp3:okhttp:3.9.1'
     compile 'com.squareup.okhttp3:okhttp-urlconnection:3.2.0'

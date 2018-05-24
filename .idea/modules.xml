@@ -3,11 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidLearning.iml" filepath="$PROJECT_DIR$/AndroidLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/broadcastsend/broadcastsend.iml" filepath="$PROJECT_DIR$/broadcastsend/broadcastsend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/broadcreceiver/broadcreceiver.iml" filepath="$PROJECT_DIR$/broadcreceiver/broadcreceiver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gradledemo/gradledemo.iml" filepath="$PROJECT_DIR$/gradledemo/gradledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networkdemo/networkdemo.iml" filepath="$PROJECT_DIR$/networkdemo/networkdemo.iml" />
     </modules>
   </component>
 </project>

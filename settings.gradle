@@ -1,1 +1,7 @@
-include ':app', ':broadcastsend', ':broadcreceiver', ':application', ':gradledemo'
+include ':networkdemo'
+//        ':broadcastsend',
+//        ':broadcreceiver',
+//        ':application',
+//        ':gradledemo',
+//':app',
+
